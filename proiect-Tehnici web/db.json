@@ -1,0 +1,18 @@
+{
+  "contact": [
+    {
+      "nume": "Olaru",
+      "prenume": "Eduard",
+      "email": "edieduard1997@gmail.com",
+      "text": "Interesant!",
+      "id": 1
+    },
+    {
+      "nume": "Minca",
+      "prenume": "Andreea",
+      "email": "andreeamminca@gmail.com",
+      "text": "Imi place!",
+      "id": 2
+    }
+  ]
+}
